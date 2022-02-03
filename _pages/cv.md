@@ -11,30 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Aeronautics and Astronautics Engineering, Shanghai Jiao Tong University, 2013
+* M.S. in Aerospace Engineering, Iowa State University, 2015
+* Ph.D in Aerospace Engineering, Iowa state University, 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019.06 - Now: Assistant Professor  
+  * Shanghai Jiao Tong University
+  * Duties included: Teaching and Research
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* 2018.01 - 2019.05: Senior Research Engineer
+  * United Technologies Research Center
+  * Duties included: Development CFD code; CFD simulations
+ 
+* 2016.10 - 2018.01: CFD Solver Development Engineer (Intern till 2017.04)
+  * Altair Engineering, Inc.
+  * Duties included: Development CFD code; CFD simulations
+ 
+#Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
