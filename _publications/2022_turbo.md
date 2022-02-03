@@ -1,5 +1,5 @@
 ---
-title: "https://asmedigitalcollection.asme.org/turbomachinery/article-abstract/144/3/031002/1119309"
+title: "Detached Eddy Simulation of Transition in Turbomachinery: Linear Compressor Cascade"
 collection: publications
 permalink: /publication/2022_turbo
 date: 2022-03-01
