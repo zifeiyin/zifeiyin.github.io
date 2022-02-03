@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zifei Yin / Personal webpage"
+title                    : "Zifei Yin"
 title_separator          : "-"
 name                     : &name "Zifei Yin"
 description              : &description "Assistant Professor"
