@@ -17,7 +17,11 @@ Education
 
 Work experience
 ======
-* 2019.06 - Now: Assistant Professor  
+* 2022.09 - Now: Associate Professor
+  * Shanghai Jiao Tong University
+  * Duties included: Teaching and Research
+
+* 2019.06 - 2022.08: Assistant Professor  
   * Shanghai Jiao Tong University
   * Duties included: Teaching and Research
 
