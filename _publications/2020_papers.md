@@ -1,4 +1,3 @@
-## 2020
 ---
 title: "Application of SST-Based SLA-DDES Formulation to Turbomachinery Flows"
 collection: publications
