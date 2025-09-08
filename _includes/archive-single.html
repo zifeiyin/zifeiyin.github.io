@@ -10,7 +10,7 @@
     {% endif %}
 
     {% if publication.citation and publication.paperurl %}
-      <p>Recommended citation: {{ publication.citation }} <a href="{{ publication.paperurl }}"><u>{{ publication.paperurl }}</u></a></p>
+      <p style="font-size: 0.8em;">Recommended citation: {{ publication.citation }} <a href="{{ publication.paperurl }}"><u>{{ publication.paperurl }}</u></a></p>
     {% elsif publication.citation %}
       <p>Recommended citation: {{ publication.citation }} </p>
     {% elsif publication.paperurl %}
