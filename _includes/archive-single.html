@@ -10,11 +10,11 @@
     {% endif %}
 
     {% if publication.citation and publication.paperurl %}
-      <p style="font-size: 0.8em;">Recommended citation: {{ publication.citation }} <a href="{{ publication.paperurl }}"><u>{{ publication.paperurl }}</u></a></p>
+      <p style="font-size: 0.6em;">Recommended citation: {{ publication.citation }} <a href="{{ publication.paperurl }}"><u>{{ publication.paperurl }}</u></a></p>
     {% elsif publication.citation %}
-      <p style="font-size: 0.8em;">Recommended citation: {{ publication.citation }} </p>
+      <p style="font-size: 0.6em;">Recommended citation: {{ publication.citation }} </p>
     {% elsif publication.paperurl %}
-      <p style="font-size: 0.8em;">Download <a href="{{ publication.paperurl }}"><u>here</u></a></p>
+      <p style="font-size: 0.6em;">Download <a href="{{ publication.paperurl }}"><u>here</u></a></p>
     {% endif %}
 
   </article>
